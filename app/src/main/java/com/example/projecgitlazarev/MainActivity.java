@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-
+//commit 3 on s1
         return super.onOptionsItemSelected(item);
     }
 
